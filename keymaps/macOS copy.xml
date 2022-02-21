@@ -5,6 +5,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="GotoAction" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
