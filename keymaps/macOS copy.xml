@@ -10,4 +10,7 @@
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="SaveAll" />
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
 </keymap>
